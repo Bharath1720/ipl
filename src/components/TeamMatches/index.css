@@ -1,0 +1,6 @@
+.main-match-container {
+  background-image: linear-gradient(to bottom, orange, black);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
